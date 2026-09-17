@@ -1,6 +1,6 @@
 # Hi 👋, I'm Krishna Ojha
 
-🎓 B.Tech CSE (2nd Year)
+🎓 B.Tech CSE (3rd Year)
 📍 Madhya Pradesh, India
 📊 Aspiring Data Scientist
 
